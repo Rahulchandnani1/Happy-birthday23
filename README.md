@@ -1,6 +1,6 @@
 # Happy-birthday-pragya
 
-<didivv id="card">
+<div id="card">
     <div id="card-inside">
       <div class="wrap">
         <p>Hey son,</p>
